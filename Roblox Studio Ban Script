@@ -1,0 +1,6 @@
+wait(2)
+repeat()
+  Workspace.Player.[username]:Kick()
+end
+
+  
