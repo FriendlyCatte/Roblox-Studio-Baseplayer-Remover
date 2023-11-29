@@ -1,6 +1,3 @@
-wait(2)
-repeat()
-  Workspace.Player.[username]:Kick()
+if Player.UserId = "user id here" then
+  plr:Kick()
 end
-
-  
