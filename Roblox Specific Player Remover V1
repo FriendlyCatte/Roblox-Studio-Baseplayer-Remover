@@ -1,1 +1,3 @@
-Workspace.Player.[username]:Removes
+if Player.UserId = "player id here" then
+  plr:Remove
+end
